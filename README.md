@@ -21,11 +21,13 @@ I have a few git aliases set up for my git environment. This is my favorite.
 ## Getting started with NPM
 
 Global set up
+
 1. `npm install -g angular-cli`
-1. `npm install -g typescript typings`
+2. `npm install -g typescript typings`
 
 
 Project Set up / Start
+
 1. `cd quickstart`	Get into project folder
 1. `npm install`   Install dependencies
 1. `npm start`   Start the local server environ!
