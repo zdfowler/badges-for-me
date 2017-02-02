@@ -14,6 +14,7 @@
 I have a few git aliases set up for my git environment. This is my favorite.
 
   `git config --global alias.lsd "log --oneline --graph --decorate"`
+  Now type `git lsd` to get a short-line history with graphing and tags.
 
 
 ## Getting started with NPM
